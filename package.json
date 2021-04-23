@@ -1,6 +1,6 @@
 {
-  "name": "destinypositions",
-  "version": "0.0.1",
+  "name": "docs.cordx.wtf",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
