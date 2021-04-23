@@ -13,7 +13,7 @@ const features = [
     iconName: 'brain',
     description: (
       <>
-        As a content creator, I am often misrepresented by people who disagree with me. Form an opinion about me <strong>based on my actual positions</strong>.
+       Bring your ideas to reality, CordX is Community Based and Suggestions are welcome.
       </>
     ),
   },
@@ -23,7 +23,7 @@ const features = [
     iconName: 'comments',
     description: (
       <>
-        The real world is complicated and the best answers are usually found between two extremes. My positions can be better understood if you avoid black and white and allow for nuance.
+        ShareX is Complicated, We do all the Hard Work, Link Creation, DNS Customization & Multi-Tasking for you.
       </>
     ),
   },
@@ -33,7 +33,7 @@ const features = [
     iconName: 'book-open',
     description: (
       <>
-        Online political discourse has become increasingly unhealthy. I want debate to be grounded in facts and research. You can see some of the resources that I base my positions on here.
+       CordX is a Well Documenteted Application with a Friendly, Reliable Support Team.
       </>
     ),
   },
