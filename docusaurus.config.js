@@ -1,6 +1,6 @@
 module.exports = {
   title: 'CordX',
-  tagline: 'Find out what I actually believe.',
+  tagline: 'Documentation for the CordX Website, API and Discord Bot.',
   url: 'https://docs.cordx.wtf',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -25,37 +25,7 @@ module.exports = {
           activeBaseRegex: 'docs/$',
           label: 'About',
           position: 'left',
-        },
-        {
-          to: 'docs/current_events',
-          activeBasePath: 'docs/current_events',
-          label: 'Current Events',
-          position: 'left',
-        },
-        {
-          to: 'docs/politics',
-          activeBasePath: 'docs/politics',
-          label: 'Politics',
-          position: 'left',
-        },
-        {
-          to: 'docs/philosophy',
-          activeBasePath: 'docs/philosophy',
-          label: 'Philosophy',
-          position: 'left',
-        },
-       {
-          to: 'docs/notable_critics',
-          activeBasePath: 'docs/notable_critics',
-          label: 'Notable Critics',
-          position: 'left',
-        },
-        {
-          to: 'docs/personal',
-          activeBasePath: 'docs/personal',
-          label: 'Personal',
-          position: 'left',
-        },
+        }
       ],
     },
     footer: {
