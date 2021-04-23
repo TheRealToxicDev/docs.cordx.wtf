@@ -70,7 +70,7 @@ function Home() {
       description={siteConfig.customFields.metaDescription}>
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
-          <img src={useBaseUrl('img/dgg-logo.svg')} height="100px" />
+          <img src={useBaseUrl('img/BA0AD0B5-3757-4A15-B6CB-99670D119494.png')} height="100px" />
           <br /><br />
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
