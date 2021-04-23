@@ -71,7 +71,8 @@ module.exports = {
     },
     image: 'https://cdn.cordx.wtf/A1EF58E2-BC7E-44F6-8F9B-E2C7CA53D2E2.png',
     metadatas: [
-      {name: 'twitter:card', content: 'summary'},
+      { name: 'twitter:card', content: 'summary' },
+      { name: 'og:title', content: 'CordX Documentation' },
     ],
   },
   presets: [
