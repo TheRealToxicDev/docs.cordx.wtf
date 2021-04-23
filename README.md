@@ -9,6 +9,7 @@ This is the Official Documentation for the CordX Website, API and Discord Bot ma
 ## Self Hosting
 * We **WILL NOT** offer support for anyone who wants to Self Host this website
 * This website is used for Contributors and Members of the CordX Community
+* If you are Familiar with Netlify, Docusaurus and React then you're more then welcome to Self Host it
 
 ---
 
