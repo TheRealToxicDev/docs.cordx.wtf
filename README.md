@@ -6,3 +6,14 @@ This is the Official Documentation for the CordX Website, API and Discord Bot ma
 
 ---
 
+## Self Hosting
+
+---
+
+## Contributing
+
+---
+
+## Credits
+Copyright (c) 2021 Toxic Dev | Toxic Development
+
