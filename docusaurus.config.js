@@ -14,10 +14,10 @@ module.exports = {
   themeConfig: {
     // Vanilla settings
     navbar: {
-      title: 'My Positions',
+      title: 'CordX Docs',
       logo: {
-        alt: 'Destiny',
-        src: 'img/favicon.ico',
+        alt: 'CordX Logo',
+        src: 'img/BA0AD0B5-3757-4A15-B6CB-99670D119494.png',
       },
       items: [
         {
