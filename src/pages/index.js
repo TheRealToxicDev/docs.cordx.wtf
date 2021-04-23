@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     num: 1,
-    title: 'Get It From Me',
+    title: 'Custom Upload Server',
     iconName: 'brain',
     description: (
       <>
@@ -72,8 +72,8 @@ function Home() {
         <div className="container">
           <img src={useBaseUrl('img/BA0AD0B5-3757-4A15-B6CB-99670D119494.png')} height="100px" />
           <br /><br />
-          <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
+          <h1 className="hero__title" style={{ color: 'white' }}>{siteConfig.title}</h1>
+          <p className="hero__subtitle" style={{ color: 'white' }}>{siteConfig.tagline}</p>
           <div className={styles.buttons}>
             <Link
               className={clsx(
