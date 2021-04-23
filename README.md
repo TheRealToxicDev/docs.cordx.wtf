@@ -7,10 +7,13 @@ This is the Official Documentation for the CordX Website, API and Discord Bot ma
 ---
 
 ## Self Hosting
+* We **WILL NOT** offer support for anyone who wants to Self Host this website
+* This website is used for Contributors and Members of the CordX Community
 
 ---
 
 ## Contributing
+* Information **Coming Soon**
 
 ---
 
