@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'CordX Documentation',
+  title: 'CordX',
   tagline: 'Find out what I actually believe.',
   url: 'https://docs.cordx.wtf',
   baseUrl: '/',
