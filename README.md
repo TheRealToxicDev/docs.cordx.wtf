@@ -1,1 +1,1 @@
-# CordX Documentation
+# CordX Docs
