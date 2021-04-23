@@ -5,11 +5,11 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'destinypositions', // Usually your GitHub org/user name.
-  projectName: 'destinypositions', // Usually your repo name.
+  favicon: 'img/BA0AD0B5-3757-4A15-B6CB-99670D119494.png',
+  organizationName: 'ChillCordDev', // Usually your GitHub org/user name.
+  projectName: 'CordX-Docs', // Usually your repo name.
   customFields: {
-    metaDescription: 'Steven (Destiny) Bonnell II is a professional streamer, primarily playing games, but will often venture off into other topics, including but not limited to: philosophy, youtube videos, music and all sorts of wonderful pseudo-intellectualism.',
+    metaDescription: 'Documentation for the CordX Project.',
   },
   themeConfig: {
     // Vanilla settings
