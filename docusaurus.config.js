@@ -1,7 +1,7 @@
 module.exports = {
-  title: 'My Positions',
+  title: 'CordX Documentation',
   tagline: 'Find out what I actually believe.',
-  url: 'https://positions.destiny.gg/',
+  url: 'https://docs.cordx.wtf',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -65,16 +65,12 @@ module.exports = {
           items: [
             {
               label: 'Main Website',
-              href: 'https://destiny.gg',
+              href: 'https://cordx.wtf',
             },
             {
-              label: 'Twitch',
-              href: 'https://twitch.tv/destiny',
-            },
-            {
-              label: 'YouTube',
-              href: 'https://www.youtube.com/user/destiny',
-            },
+              label: 'Upload Server',
+              href: 'https://cdn.cordx.wtf',
+            }
           ],
         },
         {
@@ -82,12 +78,8 @@ module.exports = {
           items: [
             {
               label: 'Discord',
-              href: 'https://www.destiny.gg/discord',
-            },
-            {
-              label: 'Reddit',
-              href: 'https://www.reddit.com/r/Destiny/',
-            },
+              href: 'https://cordx.wtf/discord',
+            }
           ],
         },
         {
@@ -95,7 +87,7 @@ module.exports = {
           items: [
             {
               label: 'GitHub Repository',
-              href: 'https://github.com/destinygg/destinypositions',
+              href: 'https://github.com/Chill-Bot-Dev/CordX',
             },
           ],
         },
@@ -107,7 +99,7 @@ module.exports = {
     colorMode: {
       defaultMode: 'dark',
     },
-    image: 'https://www.destiny.gg/favicon-196x196.png',
+    image: 'https://cdn.cordx.wtf/A1EF58E2-BC7E-44F6-8F9B-E2C7CA53D2E2.png',
     metadatas: [
       {name: 'twitter:card', content: 'summary'},
     ],
