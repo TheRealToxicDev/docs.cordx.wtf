@@ -1,7 +1,7 @@
 ---
 id: about
 title: Getting Started
-sidebar_label: Docs
+sidebar_label: Getting Started
 description: About CordX
 slug: /
 ---
