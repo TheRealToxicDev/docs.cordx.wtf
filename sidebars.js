@@ -1,6 +1,6 @@
 module.exports = {
   mainSidebar: [
-    'Getting Started',
+    'about',
     {
       type: "category",
       label: "User Guide",
