@@ -23,7 +23,7 @@ module.exports = {
         {
           to: 'docs/',
           activeBaseRegex: 'docs/$',
-          label: 'Docs',
+          label: 'Getting Started',
           position: 'left',
         },
         {
