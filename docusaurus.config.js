@@ -1,7 +1,7 @@
 module.exports = {
   title: 'CordX',
   tagline: 'Documentation for the CordX Website, API and Discord Bot.',
-  url: 'https://docs.cordx.wtf',
+  url: 'https://docs.cordx.lol',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -34,7 +34,7 @@ module.exports = {
         {
           label: 'Status',
           position: 'left',
-          href: 'https://status.cordx.wtf'
+          href: 'https://stats.uptimerobot.com/PJMqKc4RD4'
         }
       ],
     },
