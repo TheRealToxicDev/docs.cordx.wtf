@@ -1,13 +1,6 @@
 module.exports = {
   mainSidebar: [
-    'about',
-    {
-      type: "category",
-      label: "Getting Started",
-      items: [
-        "getting-started/setup"
-      ],
-    },
+    'Getting Started',
     {
       type: "category",
       label: "User Guide",
@@ -17,7 +10,7 @@ module.exports = {
     },
     {
       type: "category",
-      label: "Domain Config",
+      label: "Domain Guide",
       items: [
         "custom-domains/domains"
       ]
