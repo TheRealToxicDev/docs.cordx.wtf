@@ -9,17 +9,17 @@ import styles from './styles.module.css';
 const features = [
   {
     num: 1,
-    title: 'Custom Upload Server',
+    title: 'Community Sourced',
     iconName: 'brain',
     description: (
       <>
-       Bring your ideas to reality, CordX is Community Based ShareX solution and Suggestions are welcome.
+       Bring your ideas to reality here at CordX we are a 100% Community Based ShareX solution and Suggestions are welcome.
       </>
     ),
   },
   {
     num: 2,
-    title: 'Compromise',
+    title: 'Always Supportive',
     iconName: 'comments',
     description: (
       <>
@@ -29,11 +29,11 @@ const features = [
   },
   {
     num: 3,
-    title: 'Sources',
+    title: ' Easy to Use',
     iconName: 'book-open',
     description: (
       <>
-       CordX is a Well Documenteted Application with a Friendly, Reliable and ready to help Support Team.
+       CordX is a Well Documenteted Application with a Friendly, Dedicated, Reliable and ready to help Support Team.
       </>
     ),
   },
