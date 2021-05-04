@@ -13,7 +13,7 @@ const features = [
     iconName: 'brain',
     description: (
       <>
-       Bring your ideas to reality, CordX is Community Based and Suggestions are welcome.
+       Bring your ideas to reality, CordX is Community Based ShareX solution and Suggestions are welcome.
       </>
     ),
   },
@@ -23,7 +23,7 @@ const features = [
     iconName: 'comments',
     description: (
       <>
-        ShareX is Complicated, We do all the Hard Work, Link Creation, DNS Customization & Multi-Tasking for you.
+        ShareX is Complicated, Let us do all the Hard Work, Link Creation, DNS Customization & Multi-Tasking for you.
       </>
     ),
   },
@@ -33,7 +33,7 @@ const features = [
     iconName: 'book-open',
     description: (
       <>
-       CordX is a Well Documenteted Application with a Friendly, Reliable Support Team.
+       CordX is a Well Documenteted Application with a Friendly, Reliable and ready to help Support Team.
       </>
     ),
   },
