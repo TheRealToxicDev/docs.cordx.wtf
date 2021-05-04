@@ -23,8 +23,18 @@ module.exports = {
         {
           to: 'docs/',
           activeBaseRegex: 'docs/$',
-          label: 'About',
+          label: 'Docs',
           position: 'left',
+        },
+        {
+          label: 'Discord',
+          position: 'left',
+          href: 'https://cordx.wtf/discord'
+        },
+        {
+          label: 'Status',
+          position: 'left',
+          href: 'https://status.cordx.wtf'
         }
       ],
     },
