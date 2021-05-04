@@ -5,9 +5,9 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/BA0AD0B5-3757-4A15-B6CB-99670D119494.png',
-  organizationName: 'ChillCordDev', // Usually your GitHub org/user name.
-  projectName: 'CordX-Docs', // Usually your repo name.
+  favicon: 'img/CordX-Logo.png',
+  organizationName: 'TheRealToxicDev', // Usually your GitHub org/user name.
+  projectName: 'docs.cordx.wtf', // Usually your repo name.
   customFields: {
     metaDescription: 'Documentation for the CordX Project.',
   },
@@ -17,7 +17,7 @@ module.exports = {
       title: 'CordX Docs',
       logo: {
         alt: 'CordX Logo',
-        src: 'img/BA0AD0B5-3757-4A15-B6CB-99670D119494.png',
+        src: 'img/CordX-Logo.png',
       },
       items: [
         {
@@ -44,32 +44,32 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Support',
           items: [
             {
               label: 'Discord',
               href: 'https://cordx.wtf/discord',
-            }
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'GitHub Repository',
-              href: 'https://github.com/Chill-Bot-Dev/CordX',
             },
+            {
+              label: 'Terms of Service',
+              href: 'https://cordx.wtf/terms',
+            },
+            {
+              label: 'Privacy Policy',
+              href: 'https://cordx.wtf/privacy',
+            }
           ],
         },
       ],
       style: 'dark',
+      copyright: `Copyright © ${new Date().getFullYear()} CordX`
     },
 
     // Extra settings
     colorMode: {
       defaultMode: 'dark',
     },
-    image: 'https://cdn.cordx.wtf/A1EF58E2-BC7E-44F6-8F9B-E2C7CA53D2E2.png',
+    image: 'https://cordx.wtf/images/CordX-Logo.png',
     metadatas: [
       { name: 'twitter:card', content: 'summary' },
       { name: 'og:title', content: 'CordX Documentation' },

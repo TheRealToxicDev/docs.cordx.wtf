@@ -7,9 +7,13 @@ slug: /
 ---
 
 ## What is CordX
-A powerful ShareX file host, which allows for images and other files to be uploaded to a custom server..
+CordX is a ShareX focused media and file uploader, with a variety of features! 
+We offer over 20 custom domains to host your iamges and files on, or you can even bring over your own! 
 
 ---
 
 ## Who made CordX
-CordX was Founded and Developed by Multiple Discord Users for you all to love and enjoy ❤️ 
+CordX was Founded and Developed by Multiple Discord Users for you all to love and enjoy ❤️
+
+## Why use CordX
+CordX is Fast, Reliable and offers a 99.99% Uptime Rate guaranteed
