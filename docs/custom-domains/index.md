@@ -12,7 +12,9 @@ on top of providing a "Bring your own Domain" service which allows users to use 
 
 ## Custom Domains
 To use your own custom domain is actually quite simple if you have been given an account on the CordX website just follow the steps below
-1. Create a CNAME DNS Record for the Domain of your choice that points to `us.north.cordx.wtf` or `us.east.cordx.wtf`
+1. Create a CNAME DNS Record for the Domain of your choice that points to `us.west.cordx.wtf` or `us.east.cordx.wtf`
+2. Install the Portzilla App on Cloudflare!
+3. Set the PORT for your CordX Domain in Portzilla to 4220
 2. Save your changes and wait for DNS Propogation.
 
 - If your domain does not work or respond after 24 Hours please contact our Support Team on our Discord.
